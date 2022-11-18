@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zachary! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/zachary-luckman-0a530b187/">My Linkedln</a>
+<h1>Hi, I'm Zachary! <br/><a href="https://github.com/zacharyluckman">Programmer</a>, <a href="https://www.linkedin.com/in/zachary-luckman-0a530b187/">My Linkedln</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
