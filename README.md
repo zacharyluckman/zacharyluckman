@@ -10,11 +10,7 @@
 
 <h2>📁 Links to other Pages</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://github.com/zacharyluckman/Resume)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Resume](https://github.com/zacharyluckman/Resume)
 
 <h2> 🤳 Connect with me:</h2>
 
