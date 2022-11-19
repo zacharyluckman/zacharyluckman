@@ -13,7 +13,7 @@
 - [Resume](https://github.com/zacharyluckman/Resume)
 - [Skills](https://github.com/zacharyluckman/skills)
 - [Work Examples](https://github.com/zacharyluckman/Resume)
-- [Work Experience](https://github.com/zacharyluckman/Resume)
+- [Work Experience](https://github.com/zacharyluckman/WorkExperience/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
