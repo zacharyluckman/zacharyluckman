@@ -10,7 +10,6 @@
 
 <h2>📁 Links to other Pages</h2>
 
-- [Resume](https://github.com/zacharyluckman/Resume)
 - [Skills](https://github.com/zacharyluckman/skills)
 - [Work Examples](https://github.com/zacharyluckman/Resume)
 - [Work Experience](https://github.com/zacharyluckman/WorkExperience/blob/main/README.md)
