@@ -11,7 +11,7 @@
 <h2>📁 Links to other Pages</h2>
 
 - [Skills](https://github.com/zacharyluckman/skills)
-- [Work Examples](https://github.com/zacharyluckman/Resume)
+- [Work Examples](https://github.com/zacharyluckman/WorkExamples)
 - [Work Experience](https://github.com/zacharyluckman/WorkExperience/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
